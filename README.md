@@ -1,4 +1,4 @@
-# Staj-Proje
+# Staj-Projesi
 
 # Talep Yönetim Sistemi
 
